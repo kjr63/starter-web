@@ -9,3 +9,9 @@ Tähän tulee esittely
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
+
+Tähän tulee deployment
+
+
