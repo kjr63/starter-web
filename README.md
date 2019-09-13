@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Tähän tulee esittely
+Tähän tulee esittely.
+Tämä projekti esittelee gitin toimintaa
 
 ## Purpose
 
