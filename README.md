@@ -13,6 +13,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Tähän tulee deployment
+Tähän tulee deployment.
+Viimeinen lisäys?
+Ei ollutkaan.
 
 
